@@ -664,6 +664,6 @@
         "statusBar.debuggingForeground": "#ffffff",
         "statusBarItem.remoteBackground": "#6633dd",
 		"editorGutter.background": "#251436",
-		"editorGroup.border": "#ff0000"
+		"editorGroup.border": "#390650"
 	}
 }
