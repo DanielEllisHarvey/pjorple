@@ -1,0 +1,21 @@
+{
+  "name": "pjorple",
+  "displayName": "idk",
+  "description": "it's like.. purple n stuff",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pjorple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pjorple-color-theme.json"
+      }
+    ]
+  }
+}
